@@ -1,0 +1,14 @@
+D:\.net\projects\task04\task04\bin\Debug\net8.0\task04.exe
+D:\.net\projects\task04\task04\bin\Debug\net8.0\task04.deps.json
+D:\.net\projects\task04\task04\bin\Debug\net8.0\task04.runtimeconfig.json
+D:\.net\projects\task04\task04\bin\Debug\net8.0\task04.dll
+D:\.net\projects\task04\task04\bin\Debug\net8.0\task04.pdb
+D:\.net\projects\task04\task04\obj\Debug\net8.0\task04.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\projects\task04\task04\obj\Debug\net8.0\task04.AssemblyInfoInputs.cache
+D:\.net\projects\task04\task04\obj\Debug\net8.0\task04.AssemblyInfo.cs
+D:\.net\projects\task04\task04\obj\Debug\net8.0\task04.csproj.CoreCompileInputs.cache
+D:\.net\projects\task04\task04\obj\Debug\net8.0\task04.dll
+D:\.net\projects\task04\task04\obj\Debug\net8.0\refint\task04.dll
+D:\.net\projects\task04\task04\obj\Debug\net8.0\task04.pdb
+D:\.net\projects\task04\task04\obj\Debug\net8.0\task04.genruntimeconfig.cache
+D:\.net\projects\task04\task04\obj\Debug\net8.0\ref\task04.dll
